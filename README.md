@@ -29,7 +29,7 @@ Horiseon is a website dedicated to offering services related to Search Engine Op
 
 The website is straightforward to use. Navigate through the homepage to learn about different digital marketing strategies. Click on the links in the header to jump directly to the respective sections.
 
-![Horiseon Homepage](./starter/assets/images/screenshot.png)
+![Horiseon Homepage](/Assets/01-html-css-git-challenge-demo.png)
 
 ## Credits
 
