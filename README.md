@@ -27,7 +27,7 @@ Horiseon is a website dedicated to offering services related to Search Engine Op
 
 ## Usage
 
-The website is straightforward to use. Navigate through the homepage to learn about different digital marketing strategies. Click on the links in the header to jump directly to the respective sections.
+The website is straightforward to use. Navigate through the homepage to learn about different digital marketing strategies. Below you will find a photo of the page.
 
 ![Horiseon Homepage](/Assets/01-html-css-git-challenge-demo.png)
 
